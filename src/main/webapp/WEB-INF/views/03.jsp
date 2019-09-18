@@ -33,5 +33,9 @@
 		${i }
 	</c:forEach>
 	
+	<h3>replace함수</h3>
+	<c:set var='contents' value='안녕하세요\n하하하하' />
+	
+	
 </body>
 </html>
