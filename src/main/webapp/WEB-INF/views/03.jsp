@@ -27,5 +27,11 @@
 			</li>
 		</c:forEach>
 	</ul>
+	
+	<h3>forEach 태그 테스트2</h3>
+	<c:forEach begin='0' end='9' step='1' var='i'>
+		${i }
+	</c:forEach>
+	
 </body>
 </html>
