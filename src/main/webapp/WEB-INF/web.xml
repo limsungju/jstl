@@ -39,4 +39,14 @@
     <servlet-name>_03Servlet</servlet-name>
     <url-pattern>/03</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>_04Servlet</display-name>
+    <servlet-name>_04Servlet</servlet-name>
+    <servlet-class>controller._04Servlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>_04Servlet</servlet-name>
+    <url-pattern>/04</url-pattern>
+  </servlet-mapping>
 </web-app>
